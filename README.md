@@ -13,11 +13,11 @@ pyinstaller = "^6.11.0"
 
 ```PowerShell
 # pip
-pip install PyQt6 opencv-python
+pip install PyQt6 opencv-python pyinstaller
 ```
 ```PowerShell
 # poetry
-poetry add PyQt6 opencv-python
+poetry add PyQt6 opencv-python pyinstaller
 ```
 
 ## How To Use This Application?
