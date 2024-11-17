@@ -25,23 +25,21 @@ poetry install
 python <Your_App_Path>
 ```
 
-* exe file
-  
-[panorama_vision_agent.exe](./installation)
+* exe file: panorama_vision_agent.exe
 
 ### 1. 처음 화면
 
-![alt text](img\initial_screen.png)
+![alt text](img/initial_screen.png)
 
 처음에는 collect 버튼만 활성화 돼 있습니다. collect 버튼을 눌러 웹캠을 활성화 합니다.
 
-![webcam](img\webcam.png)
+![webcam](img/webcam.png)
 
 웹캠이 활성화 되면 c 버튼을 눌러 화면 캡쳐가 가능하고, q 버튼을 눌러 웹캠을 종료할 수 있습니다.
 
 ### 2. 웹캠 종료 후
 
-![activated_button](img\button_activated.png)
+![activated_button](img/button_activated.png)
 
 웹캠이 종료되면 show, stitch, save 버튼이 활성화 됩니다. 
 
@@ -51,6 +49,6 @@ python <Your_App_Path>
 
 ### 3. 추가 기능: 파노라마 사진 저장 후
 
-![activated_button](img\button_activated2.png)
+![activated_button](img/button_activated2.png)
 
 파노라마 사진이 저장되면 해당 사진에 특수 효과를 적용할 수 있는 버튼이 활성화 됩니다. 특정 특수 효과를 지정하고 그 사진을 저장할 수 있습니다.
